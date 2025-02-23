@@ -5,7 +5,6 @@
 🛠️ **Working on** | A web automation for token check-in on infinityschool because I'm lazy :)  
 🌱 **Goals** | Improve my coding skills, get a job in the area and become a better developer  
 🛠️ **Building** | A Web automation more info on the infinityschoolrpa Repository  
-
 ---
 
 ### 🔧 Technologies & Tools I'm Exploring  
@@ -21,10 +20,7 @@
 💡 Always open to connecting with other developers and sharing knowledge.  
 💡 I'm interested in backend and RPAs  
 💡 I can speak 3 languages Portuguese, English and German
-
 ---
 
 ⭐ **Fun Fact**: My journey in coding started recently, but I'm already enjoying every step of it!  
 💭 _"Every expert was once a beginner!"_  
-
-Thanks for stopping by! 😊
