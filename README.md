@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hello, I'm Arthur Rocha  
 
-<!--
-**DamiemB/DamiemB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Developer** | Exploring coding & web development  
+📚 **Currently Learning** | Python, JavaScript, HTML and CSS  
+🛠️ **Working on** | A web automation for token check-in on infinityschool because I'm lazy :)  
+🌱 **Goals** | Improve my coding skills, get a job in the area and become a better developer  
+🛠️ **Building** | A Web automation more info on the infinityschoolrpa Repository  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools I'm Exploring  
+- 🌐 Web Development: HTML, CSS, JavaScript  
+- ⚛️ Frameworks: React (will start learning soon)  
+- 📦 Version Control: Git & GitHub  (Improving)
+- 📖 Currently Learning: Python, JavaScript (will move on to PHP soon !)
+---
+
+### 📌 A Bit About Me  
+💡 I'm new to programming and love solving problems with code.  
+💡 I enjoy learning by building small projects and experimenting with new technologies.  
+💡 Always open to connecting with other developers and sharing knowledge.  
+💡 I'm interested in backend and RPAs  
+💡 I can speak 3 languages Portuguese, English and German
+
+---
+
+⭐ **Fun Fact**: My journey in coding started recently, but I'm already enjoying every step of it!  
+💭 _"Every expert was once a beginner!"_  
+
+Thanks for stopping by! 😊
