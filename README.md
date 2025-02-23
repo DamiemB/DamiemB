@@ -26,4 +26,4 @@
 ---
 
 ⭐ **Fun Fact** | There’s a Command That Insults You – If you install the package fortune and insult mode in sudo, Linux will roast you every time you enter the wrong password!  
-💭 _"Every expert was once a beginner!"_  
+I am the most patient person you will ever meet.
