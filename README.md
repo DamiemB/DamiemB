@@ -25,5 +25,5 @@
 
 ---
 
-⭐ **Fun Fact**: My journey in coding started recently, but I'm already enjoying every step of it!  
+⭐ **Fun Fact** | There’s a Command That Insults You – If you install the package fortune and insult mode in sudo, Linux will roast you every time you enter the wrong password!  
 💭 _"Every expert was once a beginner!"_  
