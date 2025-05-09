@@ -2,9 +2,8 @@
 
 🚀 **Aspiring Developer** | Exploring coding & web development  
 📚 **Currently Learning** | Python, JavaScript, HTML and CSS  
-🛠️ **Working on** | A web automation for token check-in on infinityschool because I'm lazy :)  
+🛠️ **Working on** | Im developing a flet project, more info on khajiit has houses:)  
 🌱 **Goals** | Improve my coding skills, get a job in the area and become a better developer  
-🛠️ **Building** | A Web automation more info on the infinityschoolrpa Repository  
 
 ---
 
