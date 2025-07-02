@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Arthur Rocha  
 
 🚀 **Aspiring Developer** | Exploring coding & web development  
-📚 **Currently Learning** | Python, JavaScript, HTML and CSS  
+📚 **Currently Learning** | PHP  
 🛠️ **Working on** | Im developing a flet project, more info on khajiit has houses:)  
 🌱 **Goals** | Improve my coding skills, get a job in the area and become a better developer  
 
@@ -9,9 +9,8 @@
 
 ### 🔧 Technologies & Tools I'm Exploring  
 - 🌐 Web Development: HTML, CSS, JavaScript  
-- ⚛️ Frameworks: React (will start learning soon)  
+- ⚛️ Frameworks: Vue.js and Laravel 
 - 📦 Version Control: Git & GitHub  (Improving)
-- 📖 Currently Learning: Python, JavaScript (will move on to PHP soon !)
   
 ---
 
