@@ -9,7 +9,7 @@
 
 ### 🔧 Technologies & Tools I'm Exploring  
 - 🌐 Web Development: HTML, CSS, JavaScript  
-- ⚛️ Frameworks: Vue.js and Laravel 
+- ⚛️ Frameworks: Django and React 
 - 📦 Version Control: Git & GitHub  (Improving)
   
 ---
