@@ -1,15 +1,15 @@
 ### 👋 Hello, I'm Arthur Rocha  
 
 🚀 **Aspiring Developer** | Exploring coding & web development  
-📚 **Currently Learning** | PHP  
+📚 **Currently Learning** | Django  
 🛠️ **Working on** | Im developing a flet project, more info on khajiit has houses:)  
 🌱 **Goals** | Improve my coding skills, get a job in the area and become a better developer  
 
 ---
 
 ### 🔧 Technologies & Tools I'm Exploring  
-- 🌐 Web Development: HTML, CSS, JavaScript  
-- ⚛️ Frameworks: Django and React 
+- 🌐 Web Development: React
+- ⚛️ Frameworks: Django Rest API
 - 📦 Version Control: Git & GitHub  (Improving)
   
 ---
